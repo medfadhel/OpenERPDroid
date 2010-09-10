@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!--  Main Section-->
+    <string name="app_name">OpenERPDroid</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login_button">Login</string>
+    <string name="db_tv">Databases</string>
+    
+    
+    
+   
+
+</resources>
